@@ -1,0 +1,160 @@
+[versions]
+accompanistPager = "0.30.1"
+accompanistSwiperefresh = "<latest_version>"
+accompanistSwiperefreshVersion = "0.30.1"
+activityComposeVersion = "1.8.0"
+agp = "8.7.3"
+androidxComposeBom = "2024.12.01"
+androidxJunit = "1.1.5"
+androidxMaterial3 = "1.2.0-alpha08"
+androidxMaterial3Version = "1.2.0-alpha07"
+coilCompose = "2.4.0"
+composeBomVersion = "2023.10.00"
+converterGson = "2.9.0"
+coreKtxVersion = "1.12.0"
+datastorePreferences = "1.1.1"
+espressoCoreVersion = "3.5.1"
+firebaseAuthKtx = "23.1.0"
+firebaseAuthKtxVersion = "22.1.1"
+firebaseBom = "33.7.0"
+firebaseBomVersion = "32.2.3"
+firebaseCore = "21.3.0"
+firebaseDatabaseKtx = "21.0.0"
+firebaseDatabaseKtxVersion = "20.3.0"
+firebaseFirestoreKtx = "25.1.1"
+firebaseFirestoreKtxVersion = "24.8.1"
+firebaseStorageKtx = "21.0.1"
+firebaseStorageKtxVersion = "20.3.2"
+kotlin = "1.9.0"
+coreKtx = "1.15.0"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+kotlinxSerializationCore = "1.6.0"
+lifecycleRuntimeKtx = "2.8.7"
+activityCompose = "1.9.3"
+composeBom = "2024.04.01"
+googleGmsGoogleServices = "4.4.2"
+firebaseStorage = "21.0.1"
+lifecycleRuntimeKtxVersion = "2.6.2"
+material3 = "1.3.1"
+material3Version = "1.2.0-alpha06"
+media3Exoplayer = "1.6.0"
+media3Ui = "1.6.0"
+navigationComposeVersion = "2.7.3"
+navigationRuntimeKtx = "2.8.5"
+firebaseFirestore = "25.1.1"
+coreSplashscreen = "1.0.1"
+navigationCompose = "2.8.5"
+navigationRuntimeKtxVersion = "2.7.3"
+osmdroidAndroid = "6.1.15"
+osmdroidWms = "6.1.15"
+photosphereviewer = "4.1.1"
+playServicesAuth = "21.3.0"
+playServicesLocationVersion = "21.0.1"
+playServicesVision = "20.1.3"
+preferenceKtx = "1.2.1"
+retrofit = "2.9.0"
+sdkPanorama = "1.200.0"
+ui = "1.7.6"
+uiGraphics = "1.7.6"
+uiGraphicsVersion = "1.6.0"
+uiTestJunit4 = "1.7.6"
+uiTestJunit4Version = "1.6.0"
+uiTestManifest = "1.7.6"
+uiTestManifestVersion = "1.6.0"
+uiTooling = "1.7.6"
+uiToolingPreview = "1.7.6"
+uiToolingPreviewVersion = "1.6.0"
+uiToolingVersion = "1.6.0"
+uiVersion = "1.6.0"
+animationCoreLint = "1.8.0-alpha07"
+playServicesLocation = "21.3.0"
+x60PhotosViewerAndroid = "1.0.0"
+
+[libraries]
+accompanist-pager = { module = "com.google.accompanist:accompanist-pager", version.ref = "accompanistPager" }
+accompanist-pager-indicators = { module = "com.google.accompanist:accompanist-pager-indicators", version.ref = "accompanistPager" }
+accompanist-swiperefresh = { module = "com.google.accompanist:accompanist-swiperefresh", version.ref = "accompanistSwiperefresh" }
+accompanist-swiperefresh-v0301 = { module = "com.google.accompanist:accompanist-swiperefresh", version.ref = "accompanistSwiperefreshVersion" }
+androidx-activity-compose-v180 = { module = "androidx.activity:activity-compose", version.ref = "activityComposeVersion" }
+androidx-compose-bom-v20231000 = { module = "androidx.compose:compose-bom", version.ref = "composeBomVersion" }
+androidx-compose-bom-v20241201 = { module = "androidx.compose:compose-bom", version.ref = "androidxComposeBom" }
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+androidx-core-ktx-v1120 = { module = "androidx.core:core-ktx", version.ref = "coreKtxVersion" }
+androidx-datastore-preferences = { module = "androidx.datastore:datastore-preferences", version.ref = "datastorePreferences" }
+androidx-espresso-core-v351 = { module = "androidx.test.espresso:espresso-core", version.ref = "espressoCoreVersion" }
+androidx-junit-v115 = { module = "androidx.test.ext:junit", version.ref = "androidxJunit" }
+androidx-lifecycle-runtime-ktx-v262 = { module = "androidx.lifecycle:lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtxVersion" }
+androidx-material3-v120alpha06 = { module = "androidx.compose.material3:material3", version.ref = "material3Version" }
+androidx-material3-v120alpha07 = { module = "androidx.compose.material3:material3", version.ref = "androidxMaterial3Version" }
+androidx-material3-v120alpha08 = { module = "androidx.compose.material3:material3", version.ref = "androidxMaterial3" }
+androidx-media3-exoplayer = { module = "androidx.media3:media3-exoplayer", version.ref = "media3Exoplayer" }
+androidx-media3-ui = { module = "androidx.media3:media3-ui", version.ref = "media3Ui" }
+androidx-navigation-compose-v273 = { module = "androidx.navigation:navigation-compose", version.ref = "navigationComposeVersion" }
+androidx-navigation-runtime-ktx-v273 = { module = "androidx.navigation:navigation-runtime-ktx", version.ref = "navigationRuntimeKtxVersion" }
+androidx-preference-ktx = { module = "androidx.preference:preference-ktx", version.ref = "preferenceKtx" }
+androidx-ui-graphics-v160 = { module = "androidx.compose.ui:ui-graphics", version.ref = "uiGraphicsVersion" }
+androidx-ui-test-junit4-v160 = { module = "androidx.compose.ui:ui-test-junit4", version.ref = "uiTestJunit4Version" }
+androidx-ui-test-manifest-v160 = { module = "androidx.compose.ui:ui-test-manifest", version.ref = "uiTestManifestVersion" }
+androidx-ui-tooling-preview-v160 = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "uiToolingPreviewVersion" }
+androidx-ui-tooling-v160 = { module = "androidx.compose.ui:ui-tooling", version.ref = "uiToolingVersion" }
+androidx-ui-v160 = { module = "androidx.compose.ui:ui", version.ref = "uiVersion" }
+coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coilCompose" }
+converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGson" }
+firebase-analytics-ktx = { module = "com.google.firebase:firebase-analytics-ktx" }
+firebase-auth-ktx = { module = "com.google.firebase:firebase-auth-ktx", version.ref = "firebaseAuthKtx" }
+firebase-auth-ktx-v2211 = { module = "com.google.firebase:firebase-auth-ktx", version.ref = "firebaseAuthKtxVersion" }
+firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
+firebase-bom-v3223 = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBomVersion" }
+firebase-core = { module = "com.google.firebase:firebase-core", version.ref = "firebaseCore" }
+firebase-database-ktx = { module = "com.google.firebase:firebase-database-ktx", version.ref = "firebaseDatabaseKtx" }
+firebase-database-ktx-v2030 = { module = "com.google.firebase:firebase-database-ktx", version.ref = "firebaseDatabaseKtxVersion" }
+firebase-firestore-ktx = { module = "com.google.firebase:firebase-firestore-ktx", version.ref = "firebaseFirestoreKtx" }
+firebase-firestore-ktx-v2481 = { module = "com.google.firebase:firebase-firestore-ktx", version.ref = "firebaseFirestoreKtxVersion" }
+firebase-storage-ktx = { module = "com.google.firebase:firebase-storage-ktx", version.ref = "firebaseStorageKtx" }
+firebase-storage-ktx-v2032 = { module = "com.google.firebase:firebase-storage-ktx", version.ref = "firebaseStorageKtxVersion" }
+google-firebase-analytics-ktx = { module = "com.google.firebase:firebase-analytics-ktx" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-lifecycle-runtime-ktx = { group = "androidx.lifecycle", name = "lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtx" }
+androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
+androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "composeBom" }
+androidx-ui = { group = "androidx.compose.ui", name = "ui" }
+androidx-ui-graphics = { group = "androidx.compose.ui", name = "ui-graphics" }
+androidx-ui-tooling = { group = "androidx.compose.ui", name = "ui-tooling" }
+androidx-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview" }
+androidx-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
+androidx-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
+androidx-material3 = { group = "androidx.compose.material3", name = "material3" }
+firebase-storage = { group = "com.google.firebase", name = "firebase-storage", version.ref = "firebaseStorage" }
+androidx-navigation-runtime-ktx = { group = "androidx.navigation", name = "navigation-runtime-ktx", version.ref = "navigationRuntimeKtx" }
+firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore", version.ref = "firebaseFirestore" }
+androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version.ref = "coreSplashscreen" }
+androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
+kotlinx-serialization-core = { module = "org.jetbrains.kotlinx:kotlinx-serialization-core", version.ref = "kotlinxSerializationCore" }
+material3 = { module = "androidx.compose.material3:material3", version.ref = "material3" }
+osmdroid-android = { module = "org.osmdroid:osmdroid-android", version.ref = "osmdroidAndroid" }
+osmdroid-wms = { module = "org.osmdroid:osmdroid-wms", version.ref = "osmdroidWms" }
+photosphereviewer = { module = "com.github.mistic100:PhotoSphereViewer", version.ref = "photosphereviewer" }
+play-services-auth = { module = "com.google.android.gms:play-services-auth", version.ref = "playServicesAuth" }
+play-services-location-v2101 = { module = "com.google.android.gms:play-services-location", version.ref = "playServicesLocationVersion" }
+play-services-vision = { module = "com.google.android.gms:play-services-vision", version.ref = "playServicesVision" }
+retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
+sdk-panorama = { module = "com.google.vr:sdk-panorama", version.ref = "sdkPanorama" }
+ui = { module = "androidx.compose.ui:ui", version.ref = "ui" }
+ui-graphics = { module = "androidx.compose.ui:ui-graphics", version.ref = "uiGraphics" }
+ui-test-junit4 = { module = "androidx.compose.ui:ui-test-junit4", version.ref = "uiTestJunit4" }
+ui-test-manifest = { module = "androidx.compose.ui:ui-test-manifest", version.ref = "uiTestManifest" }
+ui-tooling = { module = "androidx.compose.ui:ui-tooling", version.ref = "uiTooling" }
+ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "uiToolingPreview" }
+androidx-animation-core-lint = { group = "androidx.compose.animation", name = "animation-core-lint", version.ref = "animationCoreLint" }
+play-services-location = { group = "com.google.android.gms", name = "play-services-location", version.ref = "playServicesLocation" }
+x60-photos-viewer-android = { module = "com.github.MKergall:360-photos-viewer-android", version.ref = "x60PhotosViewerAndroid" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+google-gms-google-services = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
+
