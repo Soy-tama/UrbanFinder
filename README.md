@@ -10,9 +10,10 @@
 - Contact landlords or property managers directly through the app.
 - User authentication for secure and personalized experience.
 - Responsive and interactive UI for seamless navigation.
-  ![Screenshot_2025-09-11-14-08-52-688_com example urbanfinder](https://github.com/user-attachments/assets/65964c00-1595-407b-9134-0947d008ae86)
-  ![Screenshot_2025-09-11-14-08-27-731_com example urbanfinder](https://github.com/user-attachments/assets/2acb7ef7-cfc1-41e9-9ca8-f65a35183cc4)
-  ![Screenshot_2025-09-11-14-09-20-344_com example urbanfinder](https://github.com/user-attachments/assets/653130a4-7a29-4094-9f91-ae417f5fa0b4)
+  
+
+https://github.com/user-attachments/assets/05033d13-1979-45e6-b7d8-9acd94637db1
+
 
 
 
