@@ -10,16 +10,8 @@
 - Contact landlords or property managers directly through the app.
 - User authentication for secure and personalized experience.
 - Responsive and interactive UI for seamless navigation.
-  
 
-https://github.com/user-attachments/assets/05033d13-1979-45e6-b7d8-9acd94637db1
-
-
-
-
-
-
-## Tech Stack
+  ## Tech Stack
 
 - **Frontend:** Jetpack Compose, Kotlin, NodeJs
 - **Backend:** Firebase Firestore, Firebase Authentication
