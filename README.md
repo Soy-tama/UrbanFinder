@@ -23,4 +23,4 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/xArE0/UrbanFinder.git
+   git clone https://github.com/Soy-tama/UrbanFinder.git
